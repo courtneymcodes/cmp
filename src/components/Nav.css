@@ -1,0 +1,26 @@
+.nav-container {
+    float:left;
+    width:12%;
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+
+.nav { /* individual navigation div elements*/
+    display:flex; 
+    flex-direction:column; /*stack elements vertically*/
+    justify-content:center;
+    align-items:center;
+    background-color:lightblue;
+    font-size: 18px;
+    font-weight: bold;
+    height:25vh; /*strecth each div to 25% of screen*/
+}
+
+.icon {
+    width:40px;
+    height:40px;
+}
+
+
+

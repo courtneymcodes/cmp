@@ -1,0 +1,28 @@
+.project-div {
+    display:flex;
+    text-align:center;
+    background-color:white;
+    margin:1.8em 8em 1.8em 18em; /*top, right, bottom, left*/
+    border: 2px solid lightblue; /*width, style color*/
+}
+
+
+.project-p {
+  font-size: 1.2em;
+}
+
+.project-img {
+  width:27em;
+  margin-left:2em;
+  border: 1px solid black;
+}
+
+.details {
+  display:flex;
+  flex-direction:column;
+  width: 100%; 
+}
+
+h2 {
+  margin-top:2em;
+}

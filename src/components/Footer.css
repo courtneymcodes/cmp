@@ -1,0 +1,6 @@
+footer {
+    text-align:center;
+    position:fixed;  /*remove footer from document flow and position it relative to viewport so it can be fixed to the bottom of the page*/
+    bottom:0; /*position footer element at the botom of viewport*/
+    width: 100%;  /*ensure element takes the full width of the viewport so it will center properly*/
+}

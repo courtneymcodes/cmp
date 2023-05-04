@@ -1,0 +1,35 @@
+#contact-container {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    margin-top:3em;
+}
+
+.contact-img {
+    width:8em;
+    height:8em;
+}
+
+
+.contact-span {
+    padding-top:2em; 
+}
+
+.contact-span:hover {
+    color:blue;
+    zoom:1.1;
+}
+
+.contact-p {
+    margin:0;
+    padding-left:1em;
+}
+
+#linkedin-img {
+    padding-top:1em;
+}
+
+.contact-a {
+    text-decoration: none; /*remove the underline from text*/
+    color: black;
+}
